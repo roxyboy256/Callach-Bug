@@ -21,6 +21,9 @@ I'm Callum Hutchinson, a level 4 Software Developer Aprentice.
 - Java
 - flutter
 - SQL
+- golang
+- React
+- Ansible
 
 #### Cloud Infrastructure I have used:
 - AWS
