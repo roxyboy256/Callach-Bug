@@ -3,11 +3,7 @@ I'm Callum Hutchinson, a Senior Developer.
 
 
 ### What I'm currently working on:
-1. A transport web app 
-   - Which allows me to view busses, trains and anyother tracked transport by the British Gov (running on my own Raspberry pi)
-   - Later to be displayed on a screen board in my room
-   - Also accessible external to my local network
-2. A webapp with a backed API (use TBD)
+1. Working on developing my skills in development
 
 
 ----
