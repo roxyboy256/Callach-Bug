@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Callum Hutchinson, a level 4 Software Developer Aprentice.
+I'm Callum Hutchinson, a Senior Developer.
 
 
 ### What I'm currently working on:
