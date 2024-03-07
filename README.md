@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Callum Hutchinson, a Senior Developer.
-
+i also have tiny hands
 
 ### What I'm currently working on:
 1. Working on developing my skills in development
